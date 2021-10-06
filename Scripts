@@ -5,5 +5,14 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/NOTLONTOP/DAHUB123/He
 --DA HOOD MODDED SCRIPT ( BETA )
 loadstring(game:HttpGet("https://raw.githubusercontent.com/NOTLONTOP/DH/Hey/Target", true))()
 
+--DA HOOD (FVE) SCRIPT ( BETA )
+loadstring(game:HttpGet('https://raw.githubusercontent.com/NOTLONTOP/asdadssadadadsadadada/Hey/DAHOOD'))()
+
+
+
+
+
+
+
 --Dm me for Help
 --If Ur That Dumb U dont even know what to fucking copy then just leave the discord LOL
