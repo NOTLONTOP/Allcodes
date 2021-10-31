@@ -6,7 +6,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/NOTLONTOP/DAHUB123/He
 loadstring(game:HttpGet("https://raw.githubusercontent.com/NOTLONTOP/DH/Hey/Target", true))()
 
 --DA HOOD (FVE) SCRIPT ( BETA )
-loadstring(game:HttpGet('https://raw.githubusercontent.com/NOTLONTOP/asdadssadadadsadadada/Hey/DAHOOD'))() --discontinued but you can still use it
+ --deleted the script-use lxnilty or shit
 
 
 
