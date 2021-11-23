@@ -11,6 +11,3 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/NOTLONTOP/DH/Hey/Targ
 
 
 
---DA HOOD/DA HOOD MODDED AIMLOCK (Best Free Lock)
-loadstring(game:HttpGet('https://raw.githubusercontent.com/NOTLONTOP/LOCK/Hey/NOSKIDS'))()
---:blushed emoji:
