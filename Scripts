@@ -2,8 +2,13 @@
 --hood gammes hood modded 30% dh 100% support
 loadstring(game:HttpGet("https://raw.githubusercontent.com/NOTLONTOP/hubhood/Hey/hoodgames", true))()
 
---DA HOOD MODDED SCRIPT ( BETA )
+--DA HOOD MODDED SCRIPT  --SYNAPSE VERSION (BETTER)
 loadstring(game:HttpGet("https://raw.githubusercontent.com/NOTLONTOP/DH/Hey/Target", true))()
+
+
+--DA HOOD MODDED SCRIPT KRNL VERSION 
+loadstring(game:HttpGet("https://raw.githubusercontent.com/NOTLONTOP/krnlverssion/Hey/dhm", true))()
+
 
 --Join Discord to stay Updated!
 --https://discord.gg/662aXNDYmz or discord.gg/NOTL
