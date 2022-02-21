@@ -2,9 +2,7 @@
 --Unfinished Old Project ( shit ) 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/NOTLONTOP/hubhood/Hey/hoodgames", true))()
  
- 
--- hood duels // you using this does not guarantee no ban there might be some things patched //
- loadstring(game:HttpGet("https://raw.githubusercontent.com/NOTLONTOP/HoodDuels/Hey/BETA", true))()
+
 
  
  
