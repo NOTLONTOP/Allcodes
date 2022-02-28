@@ -4,11 +4,11 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/NOTLONTOP/hubhood/Hey
  
 
 
- 
- 
- 
--- DA HOOD MODDED ( BEST ONE)
-loadstring(game:HttpGet("https://raw.githubusercontent.com/NOTLONTOP/dd/Hey/DAHOODMODDED", true))()
+ -- DA HOOD MODDED ( BEST ONE)
+
+ getgenv().LockOnKey = "q" -- aimbots lock on keybind DO NOT USE capital letters!
+getgenv().LockOffKey = "q"        -- aimbots lock off keybind DO NOT USE capital letters!                    
+ loadstring(game:HttpGet("https://raw.githubusercontent.com/NOTLONTOP/dd/Hey/DAHOODMODDED", true))()
  
 --Join Discord to stay Updated!
 --https://discord.gg/662aXNDYmz or discord.gg/NOTL
